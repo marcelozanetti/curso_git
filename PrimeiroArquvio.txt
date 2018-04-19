@@ -1,1 +1,2 @@
 Arquivo sem informações para testar no curso de GIT
+Segunda linha para testar alterações no arquivo
