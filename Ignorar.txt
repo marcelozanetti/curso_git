@@ -1,0 +1,1 @@
+Arquivo para ser ignorado, não subir no gitHub
